@@ -13,4 +13,4 @@ O calendário da Copa é um projeto onde estão configurados os horários e paí
 
 ## 🏷️ Layout:
 
-Você pode visualizar o Layout através [DESSE LINK](https://jessica-pimentel.github.io/Calendario-jogos-da-Copa-2022). 
+Você pode visualizar o layout do projeto online através desse link 👉 [Projeto Online](https://jessica-pimentel.github.io/Calendario-jogos-da-Copa-2022). 
