@@ -1,4 +1,4 @@
-# NLW - CALENDARIO DE JOGOS DA COPA DO MUNDO 2022
+# CALENDARIO DE JOGOS DA COPA DO MUNDO/2022
 
 Projeto realizado no NLW #10 da RockeatSeat com utilização, utilizando diversas tecnologias.
 
