@@ -54,6 +54,7 @@ header {
 main {
   border: 1px solid #1d1c19;
 }
+
 #cards {
   display: flex;
   flex-direction: column;
@@ -118,6 +119,7 @@ main {
 .card ul li strong:hover,
 .card ul li img:hover {
   transform: scale(1.1);
+  
 }
 
 .card h2,
